@@ -7,7 +7,7 @@ dlib==19.24.1
 entrypoints==0.4
 imageio==2.27.0
 ipykernel==6.16.2
-ipython==7.34.0
+ipython==8.10.0
 jedi==0.18.2
 jupyter_client==7.4.9
 jupyter_core==4.12.0
